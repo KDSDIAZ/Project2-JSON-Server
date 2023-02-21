@@ -1,0 +1,21 @@
+{
+  "recipe": [
+    {
+      "id": 1001,
+      "dish_name": "Fried Buttered Chicken",
+      "description": "tasty",
+      "tags": "Chicken",
+      "Ingredients": "1. One whole chicken 2. Butter 3. Cooking Oil",
+      "Procedure": "1. Butter Chicken 2. Fry Chicken"
+    }
+   
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "fullname": "Kim Delos Santos Diaz",
+      "email": "k.ds.diaz211@gmail.com",
+      "password": "group1"
+    }
+  ]
+}
