@@ -3,7 +3,8 @@
     {
       "id": 1001,
       "dish_name": "Fried Buttered Chicken",
-      "description": "tasty",
+      "image": "https://images.pexels.com/photos/8463425/pexels-photo-8463425.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Butter chicken is a popular Indian dish that features tender chunks of chicken cooked in a rich, creamy tomato-based sauce. This recipe usually starts with marinating chicken in a mixture of yogurt and spices like cumin, coriander, and garam masala, which helps to infuse the meat with flavor and keep it tender during cooking.",
       "tags": "Chicken",
       "Ingredients": "1. One whole chicken 2. Butter 3. Cooking Oil",
       "Procedure": "1. Butter Chicken 2. Fry Chicken"
